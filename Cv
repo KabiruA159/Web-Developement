@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kabiru Abdullahi</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="">
+        <h1>Freelancer</h1>
+    </div>
+   
+
+    <table cellspacing="30">
+        <tr>
+            <td> <img src="images/Kabiru Picture.jpg" alt="Kabiru Profile Picture"></td>
+            <td> <h1>Kabiru Abdullahi</h1>
+                <p>Blockchain Developer and Website Developer <strong>Data Analysis</a></strong></em></p>
+                <p>I'm a Web Developer. and I Love to help people with my knowledge to solve there problems.</p></td>
+        </tr>
+    </table>
+   
+    <hr>
+    <h3>My Educational skills</h3>
+    <ul>
+        <li>The Blockchain Development Course, where I gained knowledge of how blockchain technology works and developed skills in building decentralized applications.</li>
+        <li>The Web Developer Course, where I learned to design and develop user interfaces using HTML, CSS, and JavaScript.</li>
+        <li>The Fundamentals of Data Analysis in Excel and worked as a content writer at XYZ Company, where I leveraged my analytical skills to create compelling content that resonated with our target audience.</li>
+    </ul>
+    <hr>
+    <h3>My Working Experience</h3>
+    <table cellspacing="10">
+    <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Works</th> 
+            </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2020-2021</td>
+            <td>Lead Developers Group at XYZ Company</td>
+        </tr>
+        <tr>
+       <td>2020</td>
+       <td>Research at The Department of Information technology</td>
+        </tr>
+    </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+        <table cellspacing="10">
+
+           <tr>
+            <td>
+            <table>
+            <tr>
+                <td>Blockchain Developer</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Bitcoin Theory and Golang</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Web Developer</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>HTML, CSS, and JavaScript</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Programming</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>C Programming, PYTHON and SQL</td>
+                <td>⭐⭐⭐</td>
+
+            </tr>
+            <tr>
+                <td><a href="Data Analysis in Excel.html">Data Analysis</td>
+                
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            </table>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="contact me.html">Contact Me</a>
+
+</body>
+</html>
